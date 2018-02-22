@@ -820,6 +820,12 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .c-message--sli_highlight .c-message__label .c-mrkdwn__member--link, .c-message--sli_highlight .c-message__label .c-mrkdwn__channel.internal_channel_link { color: #949494; }
 
+.c-mrkdwn__member--link, .c-mrkdwn__subteam--link, .c-reaction { background: #555; }
+
+.c-reaction { border: 1px solid #777; }
+
+.c-reaction__count { color: #e6e6e6; }
+
 .c-message--sli_highlight_negative .c-message__label { background: rgba(0, 0, 0, 0.1); }
 
 .c-message--resend .c-message__body { color: #949494; }
