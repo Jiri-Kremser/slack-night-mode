@@ -1,0 +1,19 @@
+.client_channels_list_container {
+	max-width: 160px !important;
+}
+
+#col_channels {
+	width: 160px !important;
+}
+
+
+
+
+
+
+
+
+.p-channel_sidebar__section_heading_plus:before {
+	left: -50px !important;
+	position: relative !important;
+}
