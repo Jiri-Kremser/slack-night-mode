@@ -22,3 +22,9 @@
 #client-ui.flex_pane_showing #col_flex {
 	flex-basis: 200px !important;
 }
+
+.c-mrkdwn__member--link, .c-mrkdwn__subteam--link, .c-reaction { background: #555; }
+
+.c-reaction { border: 1px solid #777; }
+
+.c-reaction__count { color: #e6e6e6; }
