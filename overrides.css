@@ -6,14 +6,19 @@
 	width: 160px !important;
 }
 
-
-
-
-
-
-
-
 .p-channel_sidebar__section_heading_plus:before {
 	left: -50px !important;
 	position: relative !important;
+}
+
+@media screen and (max-width: 860px) {
+	#client-ui.flex_pane_showing.details_showing #col_flex,
+	#client-ui.flex_pane_showing #col_flex {
+		flex-basis: 200px !important;
+	}
+}
+
+#client-ui.flex_pane_showing.details_showing #col_flex,
+#client-ui.flex_pane_showing #col_flex {
+	flex-basis: 200px !important;
 }
