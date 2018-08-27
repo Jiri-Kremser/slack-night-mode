@@ -1,3 +1,6 @@
+/* most of the changes in this file is there because I would like to make
+the slack pretty on vertically oriented monitor => making the side panels thinner */
+
 .client_channels_list_container {
 	max-width: 160px !important;
 }
