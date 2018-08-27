@@ -28,3 +28,9 @@
 .c-reaction { border: 1px solid #777; }
 
 .c-reaction__count { color: #e6e6e6; }
+
+#reply_container .inline_message_input_container.with_file_upload {
+    background: padding-box #545454;
+    border-color: #424242;
+    color: #e6e6e6;
+}
